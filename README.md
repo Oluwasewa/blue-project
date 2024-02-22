@@ -1,2 +1,2 @@
 # blue-project
-Welcone to Blue Project
+Welcome to Blue Project
